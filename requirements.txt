@@ -1,0 +1,7 @@
+###### pip dependencies ######
+click
+matplotlib
+numpy
+PyYAML
+scipy
+simpy

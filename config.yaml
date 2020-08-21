@@ -1,0 +1,13 @@
+!Config
+capacity: 8
+elevators: 2
+floors: 7
+idle: yoyo #[bottom|middle|onplace|yoyo]
+lbda: 60.0
+live: true
+liveDelay: 0.25
+mu: 0.5
+randSeed: 12
+recap: true
+scheduling: sstf #[fcfs|sstf|ls]
+steps: 100
